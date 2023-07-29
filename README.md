@@ -108,4 +108,12 @@ For more information or support regarding Sublime Text and its licensing, please
 ---
 *Disclaimer: This repository is for demonstration purposes only and does not encourage any unauthorized use of software or license keys. Obtain licenses from official sources to comply with software licensing terms.* 📝
 
+---
+👉 To stay updated with Sublime Text news and tips, follow us on Facebook: [ELITEKAMRUL](https://www.facebook.com/EliteKamrul) 👍
+
+📞 For any questions or assistance, reach out to us on Messenger: [ELITEKAMRUL](https://m.me/EliteKamrul) 💬
+
+---
+*Disclaimer: Sublime Text is a product of Sublime HQ Pty Ltd. This description is for informational purposes only and does not represent an official endorsement or promotion.* 📝
+
 🚀📜✅🎉🔐👤🛠️❗️⚠️🌐
